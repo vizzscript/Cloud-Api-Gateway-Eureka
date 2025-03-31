@@ -1,0 +1,4 @@
+com/dev/vizzscript/student/StudentApplication.class
+com/dev/vizzscript/student/repository/StudentRespository.class
+com/dev/vizzscript/student/model/Student.class
+com/dev/vizzscript/student/controller/StudentController.class

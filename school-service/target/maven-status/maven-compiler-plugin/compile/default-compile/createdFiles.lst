@@ -1,0 +1,5 @@
+com/dev/vizzscript/school/model/School.class
+com/dev/vizzscript/school/repository/SchoolRepository.class
+com/dev/vizzscript/school/controller/SchoolController.class
+com/dev/vizzscript/school/service/SchoolService.class
+com/dev/vizzscript/school/SchoolApplication.class
